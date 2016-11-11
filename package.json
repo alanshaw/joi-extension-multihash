@@ -1,0 +1,36 @@
+{
+  "name": "joi-extension-multihash",
+  "version": "0.0.0",
+  "description": "Multihash validation with Joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && istanbul cover tape test.js"
+  },
+  "keywords": [
+    "multihash",
+    "hash",
+    "ipfs",
+    "ipns",
+    "joi",
+    "extension"
+  ],
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "multihashes": "^0.2.2"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "joi": "^9.2.0",
+    "standard": "^8.5.0",
+    "tape": "^4.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/joi-extension-multihash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanshaw/joi-extension-multihash/issues"
+  },
+  "homepage": "https://github.com/alanshaw/joi-extension-multihash#readme"
+}
