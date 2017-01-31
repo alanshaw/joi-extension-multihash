@@ -17,11 +17,11 @@
   "author": "Alan Shaw",
   "license": "ISC",
   "dependencies": {
-    "multihashes": "^0.2.2"
+    "multihashes": "^0.3.2"
   },
   "devDependencies": {
     "istanbul": "^0.4.5",
-    "joi": "^9.2.0",
+    "joi": "^10.2.0",
     "standard": "^8.5.0",
     "tape": "^4.6.2"
   },
